@@ -2,7 +2,7 @@
 
 This is the source code for "Model Evaluation Approaches for Human Activity Recognition from Time-Series Data" that will be presented at AIME2021.
 
-The input to most of the files are X, y, sub(ject) numpy arrays that have been stored.   These arrays are generated from the raw data by the code located in the load_data_time_series repository.
+The input to most of the files are X, y, sub(ject) numpy arrays that have been stored.   These arrays are generated from the raw data by the code located in https://github.com/imics-lab/load_data_time_series
 
 **MobiAct_data_explore.ipynb** was used to generate the values for the resampling and component versus total acceleration experiments.
 
